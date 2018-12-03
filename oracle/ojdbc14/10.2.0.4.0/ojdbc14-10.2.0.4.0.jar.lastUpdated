@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 03 09:14:02 CST 2018
+http\://localhost\:9081/nexus/content/groups/public/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.oracle\:ojdbc14\:jar\:10.2.0.4.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Connection reset
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1543799642105
+http\://localhost\:9081/nexus/content/groups/public/.lastUpdated=1543799637199
